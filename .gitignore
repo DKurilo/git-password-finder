@@ -1,0 +1,4 @@
+.stack-work/
+.*.swp
+git-password-finder.cabal
+*~
