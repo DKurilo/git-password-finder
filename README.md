@@ -12,3 +12,9 @@ To find and fix such repos I wrote this tool.
 3. Build it with `stack build`
 4. Run it with `stack exec -- git-password-finder +RTS -N4 -RTS ~`. You can change `N4` to amount of CPU cores you can use for this tool and `~` to directory where you want to check repos.
 
+## More
+
+I used solution from this book:  
+https://simonmar.github.io/pages/pcph.html  
+here.
+
