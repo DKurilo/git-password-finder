@@ -29,7 +29,7 @@ executables:
     ghc-options:
     - -threaded
     - -rtsopts
-    - O2
+    - -O2
     - -with-rtsopts=-N
     dependencies:
     - base-unicode-symbols >0.2 && <0.3
